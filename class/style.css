@@ -1,0 +1,61 @@
+.calculator{
+height: 10vh;
+width: 20vh;
+margin: 20px auto;
+padding: 8%;
+background-color: rgb(234, 237, 237);
+border-radius: 5px;
+}
+
+
+.dis {
+padding: 10px 0;
+}
+
+
+.displayInput{
+
+
+width: 93%;
+padding: 10px;
+text-align: right;
+outline: none;
+font-size: 1.2cm;
+background-color: aliceblue;
+border: none;
+display: block;
+
+}
+
+.btnparent{
+padding: 8px;
+margin: 7px;
+}
+
+.buttonparent button {
+
+width: 60px;
+height: 60px;
+text-align: center;
+border: none;
+font-size: 2cm;
+border-radius: 5px;
+margin: 5px;
+background-color: black;
+color: wheat;
+
+}
+
+.btn :hover{
+    background-color: aqua;
+    color: black;
+}
+
+.btn{
+background-color: black;
+color: white;
+border: none;
+margin: 4px;
+
+
+}
